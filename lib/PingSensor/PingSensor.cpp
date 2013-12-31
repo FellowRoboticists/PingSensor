@@ -1,6 +1,7 @@
-// PingSensor library
-// copyright Dave Sieh, 2013
-// This code is public domain, enjoy!
+// PingSensor Arduino Library
+//
+// Copyright (c) 2013 Dave Sieh
+// See LICENSE.txt for details.
 
 #include <Arduino.h>
 #include "PingSensor.h"

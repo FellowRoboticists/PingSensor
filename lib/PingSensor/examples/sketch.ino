@@ -1,4 +1,9 @@
 // -*- c -*- 
+// PingSensor Arduino Library
+//
+// Copyright (c) 2013 Dave Sieh
+// See LICENSE.txt for details.
+
 #include <PingSensor.h>
 
 // We're going to use a Ping))) sensor connected to
